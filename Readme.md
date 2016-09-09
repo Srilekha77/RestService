@@ -1,10 +1,13 @@
-#Steps to run this project
+#Steps to run this project from an IDE
 
 * Clone this repository into your local directory.
 * Open this project in any of the IDE's of your choice.
 * This project uses SpringBoot.
 * Run this application as a Java application. (The main class is located in src/java/com/boot/App.java)
 * The SpringBoot application should start at localhost:8585/
+
+# To start this application from command line, go to the directory and run the following maven command.
+* mvn spring-boot:run
 
 #Description:
 
